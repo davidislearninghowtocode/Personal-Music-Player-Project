@@ -6,90 +6,115 @@ using System.IO;
 using System.Net.Http;
 using System.Windows.Forms;
 
-public partial class Form1 : Form
+namespace Ampli_Music_Player
 {
-    private List<string> mockSongs = new List<string>();
-    private SpotifyService spotifyService = new SpotifyService();
-
-    public Form1()
+    public partial class Form1 : Form
     {
-        InitializeComponent();
-    }
+        private List<SongInfo> songs = new List<SongInfo>();
+        private SpotifyService spotifyService = new SpotifyService();
 
-    private async void btnSearch_Click(object sender, EventArgs e)
-    {
-        string keyword = txtSearch.Text.Trim();
-
-        if (string.IsNullOrEmpty(keyword) || keyword == "Enter song name...")
+        public Form1()
         {
-            MessageBox.Show("Please enter a song name to search.", "Info",
-                MessageBoxButtons.OK, MessageBoxIcon.Information);
-            return;
+            InitializeComponent();
         }
 
-        listBoxResults.Items.Clear();
-        string accessToken = await spotifyService.GetAccessTokenAsync();
-        if (!string.IsNullOrEmpty(accessToken))
+        private async void btnSearch_Click(object sender, EventArgs e)
         {
-            using (HttpClient client = new HttpClient())
+            string keyword = txtSearch.Text.Trim();
+
+            if (string.IsNullOrEmpty(keyword) || keyword == "Enter song name...")
             {
-                client.DefaultRequestHeaders.Add("Authorization", $"Bearer {accessToken}");
-                string url = $"https://api.spotify.com/v1/search?q={Uri.EscapeDataString(keyword)}&type=track&limit=10";
-                var response = await client.GetAsync(url);
-                if (response.IsSuccessStatusCode)
+                MessageBox.Show("Please enter a song name to search.", "Info",
+                    MessageBoxButtons.OK, MessageBoxIcon.Information);
+                return;
+            }
+
+            listBoxResults.Items.Clear();
+            songs.Clear();
+
+            string accessToken = await spotifyService.GetAccessTokenAsync();
+            if (!string.IsNullOrEmpty(accessToken))
+            {
+                using (HttpClient client = new HttpClient())
                 {
-                    string json = await response.Content.ReadAsStringAsync();
-                    JObject data = JObject.Parse(json);
-                    foreach (var track in data["tracks"]["items"])
+                    client.DefaultRequestHeaders.Add("Authorization", $"Bearer {accessToken}");
+                    string url = $"https://api.spotify.com/v1/search?q={Uri.EscapeDataString(keyword)}&type=track&limit=10";
+                    var response = await client.GetAsync(url);
+                    if (response.IsSuccessStatusCode)
                     {
-                        string title = track["name"].ToString();
-                        string artist = track["artists"][0]["name"].ToString();
-                        string album = track["album"]["name"].ToString();
-                        string imageUrl = track["album"]["images"][0]["url"].ToString();
-                        listBoxResults.Items.Add($"{title} - {artist} (Album: {album})");
-                        // Lưu thông tin tạm (sau này tải hình ảnh)
+                        string json = await response.Content.ReadAsStringAsync();
+                        JObject data = JObject.Parse(json);
+                        foreach (var track in data["tracks"]["items"])
+                        {
+                            SongInfo song = new SongInfo
+                            {
+                                Title = track["name"]?.ToString(),
+                                Artist = track["artists"]?[0]?["name"]?.ToString(),
+                                Album = track["album"]?["name"]?.ToString(),
+                                PreviewUrl = track["preview_url"]?.ToString(),
+                                ImageUrl = track["album"]?["images"]?[0]?["url"]?.ToString()
+                            };
+                            songs.Add(song);
+                            listBoxResults.Items.Add($"{song.Title} - {song.Artist} ({song.Album})");
+                        }
+                    }
+                    else
+                    {
+                        MessageBox.Show("Spotify API request failed.", "Error");
                     }
                 }
             }
+            else
+            {
+                MessageBox.Show("Failed to get Spotify access token.", "Error");
+            }
         }
-        else
-        {
-            MessageBox.Show("Failed to get Spotify access token.", "Error");
-        }
-    }
 
-    private void btnUpload_Click(object sender, EventArgs e)
-    {
-        if (openFileDialog1.ShowDialog() == DialogResult.OK)
+        private void btnUpload_Click(object sender, EventArgs e)
         {
-            string filePath = openFileDialog1.FileName;
-            mockSongs.Add(filePath);
-            listBoxResults.Items.Add(Path.GetFileNameWithoutExtension(filePath) + " (Uploaded)");
-        }
-    }
+            if (openFileDialog1.ShowDialog() == DialogResult.OK)
+            {
+                string filePath = openFileDialog1.FileName;
+                SongInfo song = new SongInfo
+                {
+                    Title = Path.GetFileNameWithoutExtension(filePath),
+                    Artist = "Local File",
+                    FilePath = filePath,
+                    Album = "Unknown Album"
+                };
+                songs.Add(song);
+                listBoxResults.Items.Add(song.ToString() + " (Uploaded)");
 
-    private void listBoxResults_DoubleClick(object sender, EventArgs e)
-    {
-        if (listBoxResults.SelectedIndex >= 0 && mockSongs.Count > 0)
-        {
-            string[] songsArray = mockSongs.ToArray();
-            int startIndex = listBoxResults.SelectedIndex % mockSongs.Count;
-            Form2 playerForm = new Form2(songsArray, startIndex);
-            playerForm.Show();
+                // 🚀 mở Form2 luôn sau khi upload
+                int index = songs.Count - 1;
+                Form2 playerForm = new Form2(songs, index);
+                playerForm.Show();
+            }
         }
-    }
 
-    private void Form1_Load(object sender, EventArgs e)
-    {
-        txtSearch.GotFocus += (s, args) =>
+        private void listBoxResults_DoubleClick(object sender, EventArgs e)
         {
-            if (txtSearch.Text == "Enter song name...")
-                txtSearch.Text = "";
-        };
-        txtSearch.LostFocus += (s, args) =>
+            int index = listBoxResults.SelectedIndex;
+            if (index >= 0 && index < songs.Count)
+            {
+                // 🚀 mở Form2 với danh sách + index
+                Form2 playerForm = new Form2(songs, index);
+                playerForm.Show();
+            }
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
         {
-            if (string.IsNullOrWhiteSpace(txtSearch.Text))
-                txtSearch.Text = "Enter song name...";
-        };
+            txtSearch.GotFocus += (s, args) =>
+            {
+                if (txtSearch.Text == "Enter song name...")
+                    txtSearch.Text = "";
+            };
+            txtSearch.LostFocus += (s, args) =>
+            {
+                if (string.IsNullOrWhiteSpace(txtSearch.Text))
+                    txtSearch.Text = "Enter song name...";
+            };
+        }
     }
 }
