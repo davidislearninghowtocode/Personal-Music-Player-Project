@@ -12,6 +12,7 @@ namespace Ampli_Music_Player
     {
         private List<SongInfo> songs = new List<SongInfo>();
         private SpotifyService spotifyService = new SpotifyService();
+        private static Form2 currentPlayerForm = null; // Track current player form
 
         public Form1()
         {
@@ -85,10 +86,15 @@ namespace Ampli_Music_Player
                 songs.Add(song);
                 listBoxResults.Items.Add(song.ToString() + " (Uploaded)");
 
-                // 🚀 mở Form2 luôn sau khi upload
-                int index = songs.Count - 1;
-                Form2 playerForm = new Form2(songs, index);
-                playerForm.Show();
+                // Chỉ mở Form2 mới nếu chưa có bài nào đang phát. Nếu đã có Form2 đang mở, chỉ thêm vào queue (không làm gì thêm)
+                if (currentPlayerForm == null || currentPlayerForm.IsDisposed)
+                {
+                    int index = songs.Count - 1;
+                    currentPlayerForm = new Form2(songs, index);
+                    currentPlayerForm.FormClosed += (s, args) => currentPlayerForm = null;
+                    currentPlayerForm.Show();
+                }
+
             }
         }
 
@@ -97,9 +103,15 @@ namespace Ampli_Music_Player
             int index = listBoxResults.SelectedIndex;
             if (index >= 0 && index < songs.Count)
             {
-                // 🚀 mở Form2 với danh sách + index
-                Form2 playerForm = new Form2(songs, index);
-                playerForm.Show();
+                // Đóng Form2 cũ nếu có và mở Form2 mới với bài được chọn
+                if (currentPlayerForm != null && !currentPlayerForm.IsDisposed)
+                {
+                    currentPlayerForm.Close();
+                }
+                
+                currentPlayerForm = new Form2(songs, index);
+                currentPlayerForm.FormClosed += (s, args) => currentPlayerForm = null;
+                currentPlayerForm.Show();
             }
         }
 
