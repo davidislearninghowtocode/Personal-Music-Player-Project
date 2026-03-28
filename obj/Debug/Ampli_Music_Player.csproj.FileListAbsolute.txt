@@ -1,0 +1,162 @@
+C:\Users\Admin\Downloads\Đặng Trần Hùng-dtc235200328-cntt k22i\project\Ampli_Music_Player\obj\Debug\Ampli_Music_Player.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\Đặng Trần Hùng-dtc235200328-cntt k22i\project\Ampli_Music_Player\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\Admin\Downloads\Đặng Trần Hùng-dtc235200328-cntt k22i\project\Ampli_Music_Player\obj\Debug\Interop.WMPDXMLib.dll
+C:\Users\Admin\Downloads\Đặng Trần Hùng-dtc235200328-cntt k22i\project\Ampli_Music_Player\obj\Debug\Interop.WMPLib.dll
+C:\Users\Admin\Downloads\Đặng Trần Hùng-dtc235200328-cntt k22i\project\Ampli_Music_Player\obj\Debug\Ampli_Music_Player.csproj.ResolveComReference.cache
+C:\Users\Admin\Downloads\Đặng Trần Hùng-dtc235200328-cntt k22i\project\Ampli_Music_Player\obj\Debug\Ampli_Music_Player.Properties.Resources.resources
+C:\Users\Admin\Downloads\Đặng Trần Hùng-dtc235200328-cntt k22i\project\Ampli_Music_Player\obj\Debug\Ampli_Music_Player.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\Đặng Trần Hùng-dtc235200328-cntt k22i\project\Ampli_Music_Player\obj\Debug\Ampli_Music_Player.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Đặng Trần Hùng-dtc235200328-cntt k22i\project\Ampli_Music_Player\obj\Debug\Ampli_Music_Player.Form2.resources
+C:\Users\Admin\Downloads\Đặng Trần Hùng-dtc235200328-cntt k22i\project\Ampli_Music_Player\obj\Debug\Ampli_Music_Player.Form1.resources
+C:\Users\Admin\Downloads\Đặng Trần Hùng-dtc235200328-cntt k22i\project\Ampli_Music_Player\obj\Debug\Interop.WMPLauncher.dll
+C:\Users\Admin\Downloads\Đặng Trần Hùng-dtc235200328-cntt k22i\project\Ampli_Music_Player\obj\Debug\Interop.WMPNSSCI.dll
+C:\Users\Admin\Downloads\Đặng Trần Hùng-dtc235200328-cntt k22i\project\Ampli_Music_Player\bin\Debug\appsettings.json
+C:\Users\Admin\Downloads\Đặng Trần Hùng-dtc235200328-cntt k22i\project\Ampli_Music_Player\bin\Debug\Ampli_Music_Player.exe.config
+C:\Users\Admin\Downloads\Đặng Trần Hùng-dtc235200328-cntt k22i\project\Ampli_Music_Player\bin\Debug\Ampli_Music_Player.exe
+C:\Users\Admin\Downloads\Đặng Trần Hùng-dtc235200328-cntt k22i\project\Ampli_Music_Player\bin\Debug\Ampli_Music_Player.pdb
+C:\Users\Admin\Downloads\Đặng Trần Hùng-dtc235200328-cntt k22i\project\Ampli_Music_Player\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\Downloads\Đặng Trần Hùng-dtc235200328-cntt k22i\project\Ampli_Music_Player\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Admin\Downloads\Đặng Trần Hùng-dtc235200328-cntt k22i\project\Ampli_Music_Player\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\Admin\Downloads\Đặng Trần Hùng-dtc235200328-cntt k22i\project\Ampli_Music_Player\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Admin\Downloads\Đặng Trần Hùng-dtc235200328-cntt k22i\project\Ampli_Music_Player\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Admin\Downloads\Đặng Trần Hùng-dtc235200328-cntt k22i\project\Ampli_Music_Player\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Admin\Downloads\Đặng Trần Hùng-dtc235200328-cntt k22i\project\Ampli_Music_Player\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Admin\Downloads\Đặng Trần Hùng-dtc235200328-cntt k22i\project\Ampli_Music_Player\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Admin\Downloads\Đặng Trần Hùng-dtc235200328-cntt k22i\project\Ampli_Music_Player\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Admin\Downloads\Đặng Trần Hùng-dtc235200328-cntt k22i\project\Ampli_Music_Player\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\Admin\Downloads\Đặng Trần Hùng-dtc235200328-cntt k22i\project\Ampli_Music_Player\bin\Debug\NAudio.Asio.dll
+C:\Users\Admin\Downloads\Đặng Trần Hùng-dtc235200328-cntt k22i\project\Ampli_Music_Player\bin\Debug\NAudio.Core.dll
+C:\Users\Admin\Downloads\Đặng Trần Hùng-dtc235200328-cntt k22i\project\Ampli_Music_Player\bin\Debug\NAudio.dll
+C:\Users\Admin\Downloads\Đặng Trần Hùng-dtc235200328-cntt k22i\project\Ampli_Music_Player\bin\Debug\NAudio.Midi.dll
+C:\Users\Admin\Downloads\Đặng Trần Hùng-dtc235200328-cntt k22i\project\Ampli_Music_Player\bin\Debug\NAudio.Wasapi.dll
+C:\Users\Admin\Downloads\Đặng Trần Hùng-dtc235200328-cntt k22i\project\Ampli_Music_Player\bin\Debug\NAudio.WinForms.dll
+C:\Users\Admin\Downloads\Đặng Trần Hùng-dtc235200328-cntt k22i\project\Ampli_Music_Player\bin\Debug\NAudio.WinMM.dll
+C:\Users\Admin\Downloads\Đặng Trần Hùng-dtc235200328-cntt k22i\project\Ampli_Music_Player\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\Downloads\Đặng Trần Hùng-dtc235200328-cntt k22i\project\Ampli_Music_Player\bin\Debug\System.Buffers.dll
+C:\Users\Admin\Downloads\Đặng Trần Hùng-dtc235200328-cntt k22i\project\Ampli_Music_Player\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Admin\Downloads\Đặng Trần Hùng-dtc235200328-cntt k22i\project\Ampli_Music_Player\bin\Debug\System.Memory.dll
+C:\Users\Admin\Downloads\Đặng Trần Hùng-dtc235200328-cntt k22i\project\Ampli_Music_Player\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Admin\Downloads\Đặng Trần Hùng-dtc235200328-cntt k22i\project\Ampli_Music_Player\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Admin\Downloads\Đặng Trần Hùng-dtc235200328-cntt k22i\project\Ampli_Music_Player\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Admin\Downloads\Đặng Trần Hùng-dtc235200328-cntt k22i\project\Ampli_Music_Player\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Admin\Downloads\Đặng Trần Hùng-dtc235200328-cntt k22i\project\Ampli_Music_Player\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Admin\Downloads\Đặng Trần Hùng-dtc235200328-cntt k22i\project\Ampli_Music_Player\bin\Debug\System.Text.Json.dll
+C:\Users\Admin\Downloads\Đặng Trần Hùng-dtc235200328-cntt k22i\project\Ampli_Music_Player\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Downloads\Đặng Trần Hùng-dtc235200328-cntt k22i\project\Ampli_Music_Player\bin\Debug\System.ValueTuple.dll
+C:\Users\Admin\Downloads\Đặng Trần Hùng-dtc235200328-cntt k22i\project\Ampli_Music_Player\bin\Debug\TagLibSharp.dll
+C:\Users\Admin\Downloads\Đặng Trần Hùng-dtc235200328-cntt k22i\project\Ampli_Music_Player\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Admin\Downloads\Đặng Trần Hùng-dtc235200328-cntt k22i\project\Ampli_Music_Player\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\Admin\Downloads\Đặng Trần Hùng-dtc235200328-cntt k22i\project\Ampli_Music_Player\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Admin\Downloads\Đặng Trần Hùng-dtc235200328-cntt k22i\project\Ampli_Music_Player\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Users\Admin\Downloads\Đặng Trần Hùng-dtc235200328-cntt k22i\project\Ampli_Music_Player\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+C:\Users\Admin\Downloads\Đặng Trần Hùng-dtc235200328-cntt k22i\project\Ampli_Music_Player\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\Admin\Downloads\Đặng Trần Hùng-dtc235200328-cntt k22i\project\Ampli_Music_Player\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Users\Admin\Downloads\Đặng Trần Hùng-dtc235200328-cntt k22i\project\Ampli_Music_Player\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\Admin\Downloads\Đặng Trần Hùng-dtc235200328-cntt k22i\project\Ampli_Music_Player\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Admin\Downloads\Đặng Trần Hùng-dtc235200328-cntt k22i\project\Ampli_Music_Player\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\Admin\Downloads\Đặng Trần Hùng-dtc235200328-cntt k22i\project\Ampli_Music_Player\bin\Debug\NAudio.xml
+C:\Users\Admin\Downloads\Đặng Trần Hùng-dtc235200328-cntt k22i\project\Ampli_Music_Player\bin\Debug\NAudio.Asio.xml
+C:\Users\Admin\Downloads\Đặng Trần Hùng-dtc235200328-cntt k22i\project\Ampli_Music_Player\bin\Debug\NAudio.Core.xml
+C:\Users\Admin\Downloads\Đặng Trần Hùng-dtc235200328-cntt k22i\project\Ampli_Music_Player\bin\Debug\NAudio.Midi.xml
+C:\Users\Admin\Downloads\Đặng Trần Hùng-dtc235200328-cntt k22i\project\Ampli_Music_Player\bin\Debug\NAudio.Wasapi.xml
+C:\Users\Admin\Downloads\Đặng Trần Hùng-dtc235200328-cntt k22i\project\Ampli_Music_Player\bin\Debug\NAudio.WinForms.xml
+C:\Users\Admin\Downloads\Đặng Trần Hùng-dtc235200328-cntt k22i\project\Ampli_Music_Player\bin\Debug\NAudio.WinMM.xml
+C:\Users\Admin\Downloads\Đặng Trần Hùng-dtc235200328-cntt k22i\project\Ampli_Music_Player\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\Downloads\Đặng Trần Hùng-dtc235200328-cntt k22i\project\Ampli_Music_Player\bin\Debug\System.Buffers.xml
+C:\Users\Admin\Downloads\Đặng Trần Hùng-dtc235200328-cntt k22i\project\Ampli_Music_Player\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Admin\Downloads\Đặng Trần Hùng-dtc235200328-cntt k22i\project\Ampli_Music_Player\bin\Debug\System.Memory.xml
+C:\Users\Admin\Downloads\Đặng Trần Hùng-dtc235200328-cntt k22i\project\Ampli_Music_Player\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Admin\Downloads\Đặng Trần Hùng-dtc235200328-cntt k22i\project\Ampli_Music_Player\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Admin\Downloads\Đặng Trần Hùng-dtc235200328-cntt k22i\project\Ampli_Music_Player\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Admin\Downloads\Đặng Trần Hùng-dtc235200328-cntt k22i\project\Ampli_Music_Player\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Admin\Downloads\Đặng Trần Hùng-dtc235200328-cntt k22i\project\Ampli_Music_Player\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Admin\Downloads\Đặng Trần Hùng-dtc235200328-cntt k22i\project\Ampli_Music_Player\bin\Debug\System.Text.Json.xml
+C:\Users\Admin\Downloads\Đặng Trần Hùng-dtc235200328-cntt k22i\project\Ampli_Music_Player\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Admin\Downloads\Đặng Trần Hùng-dtc235200328-cntt k22i\project\Ampli_Music_Player\bin\Debug\System.ValueTuple.xml
+C:\Users\Admin\Downloads\Đặng Trần Hùng-dtc235200328-cntt k22i\project\Ampli_Music_Player\bin\Debug\TagLibSharp.pdb
+C:\Users\Admin\Downloads\Đặng Trần Hùng-dtc235200328-cntt k22i\project\Ampli_Music_Player\bin\Debug\TagLibSharp.xml
+C:\Users\Admin\Downloads\Đặng Trần Hùng-dtc235200328-cntt k22i\project\Ampli_Music_Player\obj\Debug\Ampli_Mu.8EF96AF6.Up2Date
+C:\Users\Admin\Downloads\Đặng Trần Hùng-dtc235200328-cntt k22i\project\Ampli_Music_Player\obj\Debug\Ampli_Music_Player.exe
+C:\Users\Admin\Downloads\Đặng Trần Hùng-dtc235200328-cntt k22i\project\Ampli_Music_Player\obj\Debug\Ampli_Music_Player.pdb
+C:\Users\Admin\Downloads\Đặng Trần Hùng-dtc235200328-cntt k22i\project\Ampli_Music_Player\obj\Debug\Ampli_Music_Player.exe.config
+D:\Hoc_Tap\Code\Du_An_Ca_Nhan\Music_Player_DOTNET\Personal-Music-Player-Project\bin\Debug\appsettings.json
+D:\Hoc_Tap\Code\Du_An_Ca_Nhan\Music_Player_DOTNET\Personal-Music-Player-Project\bin\Debug\Ampli_Music_Player.exe.config
+D:\Hoc_Tap\Code\Du_An_Ca_Nhan\Music_Player_DOTNET\Personal-Music-Player-Project\bin\Debug\Ampli_Music_Player.exe
+D:\Hoc_Tap\Code\Du_An_Ca_Nhan\Music_Player_DOTNET\Personal-Music-Player-Project\bin\Debug\Ampli_Music_Player.pdb
+D:\Hoc_Tap\Code\Du_An_Ca_Nhan\Music_Player_DOTNET\Personal-Music-Player-Project\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Hoc_Tap\Code\Du_An_Ca_Nhan\Music_Player_DOTNET\Personal-Music-Player-Project\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Hoc_Tap\Code\Du_An_Ca_Nhan\Music_Player_DOTNET\Personal-Music-Player-Project\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\Hoc_Tap\Code\Du_An_Ca_Nhan\Music_Player_DOTNET\Personal-Music-Player-Project\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Hoc_Tap\Code\Du_An_Ca_Nhan\Music_Player_DOTNET\Personal-Music-Player-Project\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+D:\Hoc_Tap\Code\Du_An_Ca_Nhan\Music_Player_DOTNET\Personal-Music-Player-Project\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Hoc_Tap\Code\Du_An_Ca_Nhan\Music_Player_DOTNET\Personal-Music-Player-Project\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Hoc_Tap\Code\Du_An_Ca_Nhan\Music_Player_DOTNET\Personal-Music-Player-Project\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Hoc_Tap\Code\Du_An_Ca_Nhan\Music_Player_DOTNET\Personal-Music-Player-Project\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\Hoc_Tap\Code\Du_An_Ca_Nhan\Music_Player_DOTNET\Personal-Music-Player-Project\bin\Debug\Microsoft.Win32.Registry.dll
+D:\Hoc_Tap\Code\Du_An_Ca_Nhan\Music_Player_DOTNET\Personal-Music-Player-Project\bin\Debug\NAudio.Asio.dll
+D:\Hoc_Tap\Code\Du_An_Ca_Nhan\Music_Player_DOTNET\Personal-Music-Player-Project\bin\Debug\NAudio.Core.dll
+D:\Hoc_Tap\Code\Du_An_Ca_Nhan\Music_Player_DOTNET\Personal-Music-Player-Project\bin\Debug\NAudio.dll
+D:\Hoc_Tap\Code\Du_An_Ca_Nhan\Music_Player_DOTNET\Personal-Music-Player-Project\bin\Debug\NAudio.Midi.dll
+D:\Hoc_Tap\Code\Du_An_Ca_Nhan\Music_Player_DOTNET\Personal-Music-Player-Project\bin\Debug\NAudio.Wasapi.dll
+D:\Hoc_Tap\Code\Du_An_Ca_Nhan\Music_Player_DOTNET\Personal-Music-Player-Project\bin\Debug\NAudio.WinForms.dll
+D:\Hoc_Tap\Code\Du_An_Ca_Nhan\Music_Player_DOTNET\Personal-Music-Player-Project\bin\Debug\NAudio.WinMM.dll
+D:\Hoc_Tap\Code\Du_An_Ca_Nhan\Music_Player_DOTNET\Personal-Music-Player-Project\bin\Debug\Newtonsoft.Json.dll
+D:\Hoc_Tap\Code\Du_An_Ca_Nhan\Music_Player_DOTNET\Personal-Music-Player-Project\bin\Debug\System.Buffers.dll
+D:\Hoc_Tap\Code\Du_An_Ca_Nhan\Music_Player_DOTNET\Personal-Music-Player-Project\bin\Debug\System.IO.Pipelines.dll
+D:\Hoc_Tap\Code\Du_An_Ca_Nhan\Music_Player_DOTNET\Personal-Music-Player-Project\bin\Debug\System.Memory.dll
+D:\Hoc_Tap\Code\Du_An_Ca_Nhan\Music_Player_DOTNET\Personal-Music-Player-Project\bin\Debug\System.Numerics.Vectors.dll
+D:\Hoc_Tap\Code\Du_An_Ca_Nhan\Music_Player_DOTNET\Personal-Music-Player-Project\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Hoc_Tap\Code\Du_An_Ca_Nhan\Music_Player_DOTNET\Personal-Music-Player-Project\bin\Debug\System.Security.AccessControl.dll
+D:\Hoc_Tap\Code\Du_An_Ca_Nhan\Music_Player_DOTNET\Personal-Music-Player-Project\bin\Debug\System.Security.Principal.Windows.dll
+D:\Hoc_Tap\Code\Du_An_Ca_Nhan\Music_Player_DOTNET\Personal-Music-Player-Project\bin\Debug\System.Text.Encodings.Web.dll
+D:\Hoc_Tap\Code\Du_An_Ca_Nhan\Music_Player_DOTNET\Personal-Music-Player-Project\bin\Debug\System.Text.Json.dll
+D:\Hoc_Tap\Code\Du_An_Ca_Nhan\Music_Player_DOTNET\Personal-Music-Player-Project\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Hoc_Tap\Code\Du_An_Ca_Nhan\Music_Player_DOTNET\Personal-Music-Player-Project\bin\Debug\System.ValueTuple.dll
+D:\Hoc_Tap\Code\Du_An_Ca_Nhan\Music_Player_DOTNET\Personal-Music-Player-Project\bin\Debug\TagLibSharp.dll
+D:\Hoc_Tap\Code\Du_An_Ca_Nhan\Music_Player_DOTNET\Personal-Music-Player-Project\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Hoc_Tap\Code\Du_An_Ca_Nhan\Music_Player_DOTNET\Personal-Music-Player-Project\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\Hoc_Tap\Code\Du_An_Ca_Nhan\Music_Player_DOTNET\Personal-Music-Player-Project\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\Hoc_Tap\Code\Du_An_Ca_Nhan\Music_Player_DOTNET\Personal-Music-Player-Project\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+D:\Hoc_Tap\Code\Du_An_Ca_Nhan\Music_Player_DOTNET\Personal-Music-Player-Project\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+D:\Hoc_Tap\Code\Du_An_Ca_Nhan\Music_Player_DOTNET\Personal-Music-Player-Project\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\Hoc_Tap\Code\Du_An_Ca_Nhan\Music_Player_DOTNET\Personal-Music-Player-Project\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+D:\Hoc_Tap\Code\Du_An_Ca_Nhan\Music_Player_DOTNET\Personal-Music-Player-Project\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+D:\Hoc_Tap\Code\Du_An_Ca_Nhan\Music_Player_DOTNET\Personal-Music-Player-Project\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\Hoc_Tap\Code\Du_An_Ca_Nhan\Music_Player_DOTNET\Personal-Music-Player-Project\bin\Debug\Microsoft.Win32.Registry.xml
+D:\Hoc_Tap\Code\Du_An_Ca_Nhan\Music_Player_DOTNET\Personal-Music-Player-Project\bin\Debug\NAudio.xml
+D:\Hoc_Tap\Code\Du_An_Ca_Nhan\Music_Player_DOTNET\Personal-Music-Player-Project\bin\Debug\NAudio.Asio.xml
+D:\Hoc_Tap\Code\Du_An_Ca_Nhan\Music_Player_DOTNET\Personal-Music-Player-Project\bin\Debug\NAudio.Core.xml
+D:\Hoc_Tap\Code\Du_An_Ca_Nhan\Music_Player_DOTNET\Personal-Music-Player-Project\bin\Debug\NAudio.Midi.xml
+D:\Hoc_Tap\Code\Du_An_Ca_Nhan\Music_Player_DOTNET\Personal-Music-Player-Project\bin\Debug\NAudio.Wasapi.xml
+D:\Hoc_Tap\Code\Du_An_Ca_Nhan\Music_Player_DOTNET\Personal-Music-Player-Project\bin\Debug\NAudio.WinForms.xml
+D:\Hoc_Tap\Code\Du_An_Ca_Nhan\Music_Player_DOTNET\Personal-Music-Player-Project\bin\Debug\NAudio.WinMM.xml
+D:\Hoc_Tap\Code\Du_An_Ca_Nhan\Music_Player_DOTNET\Personal-Music-Player-Project\bin\Debug\Newtonsoft.Json.xml
+D:\Hoc_Tap\Code\Du_An_Ca_Nhan\Music_Player_DOTNET\Personal-Music-Player-Project\bin\Debug\System.Buffers.xml
+D:\Hoc_Tap\Code\Du_An_Ca_Nhan\Music_Player_DOTNET\Personal-Music-Player-Project\bin\Debug\System.IO.Pipelines.xml
+D:\Hoc_Tap\Code\Du_An_Ca_Nhan\Music_Player_DOTNET\Personal-Music-Player-Project\bin\Debug\System.Memory.xml
+D:\Hoc_Tap\Code\Du_An_Ca_Nhan\Music_Player_DOTNET\Personal-Music-Player-Project\bin\Debug\System.Numerics.Vectors.xml
+D:\Hoc_Tap\Code\Du_An_Ca_Nhan\Music_Player_DOTNET\Personal-Music-Player-Project\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Hoc_Tap\Code\Du_An_Ca_Nhan\Music_Player_DOTNET\Personal-Music-Player-Project\bin\Debug\System.Security.AccessControl.xml
+D:\Hoc_Tap\Code\Du_An_Ca_Nhan\Music_Player_DOTNET\Personal-Music-Player-Project\bin\Debug\System.Security.Principal.Windows.xml
+D:\Hoc_Tap\Code\Du_An_Ca_Nhan\Music_Player_DOTNET\Personal-Music-Player-Project\bin\Debug\System.Text.Encodings.Web.xml
+D:\Hoc_Tap\Code\Du_An_Ca_Nhan\Music_Player_DOTNET\Personal-Music-Player-Project\bin\Debug\System.Text.Json.xml
+D:\Hoc_Tap\Code\Du_An_Ca_Nhan\Music_Player_DOTNET\Personal-Music-Player-Project\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Hoc_Tap\Code\Du_An_Ca_Nhan\Music_Player_DOTNET\Personal-Music-Player-Project\bin\Debug\System.ValueTuple.xml
+D:\Hoc_Tap\Code\Du_An_Ca_Nhan\Music_Player_DOTNET\Personal-Music-Player-Project\bin\Debug\TagLibSharp.pdb
+D:\Hoc_Tap\Code\Du_An_Ca_Nhan\Music_Player_DOTNET\Personal-Music-Player-Project\bin\Debug\TagLibSharp.xml
+D:\Hoc_Tap\Code\Du_An_Ca_Nhan\Music_Player_DOTNET\Personal-Music-Player-Project\obj\Debug\Ampli_Music_Player.csproj.AssemblyReference.cache
+D:\Hoc_Tap\Code\Du_An_Ca_Nhan\Music_Player_DOTNET\Personal-Music-Player-Project\obj\Debug\Ampli_Music_Player.exe.config
+D:\Hoc_Tap\Code\Du_An_Ca_Nhan\Music_Player_DOTNET\Personal-Music-Player-Project\obj\Debug\Interop.MediaPlayer.dll
+D:\Hoc_Tap\Code\Du_An_Ca_Nhan\Music_Player_DOTNET\Personal-Music-Player-Project\obj\Debug\Interop.WMPDXMLib.dll
+D:\Hoc_Tap\Code\Du_An_Ca_Nhan\Music_Player_DOTNET\Personal-Music-Player-Project\obj\Debug\Interop.WMPLauncher.dll
+D:\Hoc_Tap\Code\Du_An_Ca_Nhan\Music_Player_DOTNET\Personal-Music-Player-Project\obj\Debug\Interop.WMPLib.dll
+D:\Hoc_Tap\Code\Du_An_Ca_Nhan\Music_Player_DOTNET\Personal-Music-Player-Project\obj\Debug\Interop.WMPNSSCI.dll
+D:\Hoc_Tap\Code\Du_An_Ca_Nhan\Music_Player_DOTNET\Personal-Music-Player-Project\obj\Debug\Ampli_Music_Player.csproj.ResolveComReference.cache
+D:\Hoc_Tap\Code\Du_An_Ca_Nhan\Music_Player_DOTNET\Personal-Music-Player-Project\obj\Debug\Ampli_Music_Player.Form1.resources
+D:\Hoc_Tap\Code\Du_An_Ca_Nhan\Music_Player_DOTNET\Personal-Music-Player-Project\obj\Debug\Ampli_Music_Player.Form2.resources
+D:\Hoc_Tap\Code\Du_An_Ca_Nhan\Music_Player_DOTNET\Personal-Music-Player-Project\obj\Debug\Ampli_Music_Player.Properties.Resources.resources
+D:\Hoc_Tap\Code\Du_An_Ca_Nhan\Music_Player_DOTNET\Personal-Music-Player-Project\obj\Debug\Ampli_Music_Player.csproj.GenerateResource.cache
+D:\Hoc_Tap\Code\Du_An_Ca_Nhan\Music_Player_DOTNET\Personal-Music-Player-Project\obj\Debug\Ampli_Music_Player.csproj.CoreCompileInputs.cache
+D:\Hoc_Tap\Code\Du_An_Ca_Nhan\Music_Player_DOTNET\Personal-Music-Player-Project\obj\Debug\Ampli_Mu.8EF96AF6.Up2Date
+D:\Hoc_Tap\Code\Du_An_Ca_Nhan\Music_Player_DOTNET\Personal-Music-Player-Project\obj\Debug\Ampli_Music_Player.exe
+D:\Hoc_Tap\Code\Du_An_Ca_Nhan\Music_Player_DOTNET\Personal-Music-Player-Project\obj\Debug\Ampli_Music_Player.pdb
